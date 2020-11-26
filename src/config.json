@@ -31,6 +31,22 @@
           ]
         },
         {
+          "path": "1_2_nouns_trees",
+          "author": "Xenophon",
+          "work": "Hellenica (simplified excerpts)",
+          "editors": "Vanessa Gorman",
+          "sections": [
+            {
+              "locus": "1-135",
+              "path": "1_2_nouns_trees",
+              "xml": "1_2_nouns_trees.xml",
+              "link": "https://www.example.com",
+              "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+              "chunks": { "start": 1, "end": 135 }
+            }
+          ]
+        },
+        {
           "path": "Unit_1_3_coord",
           "author": "Xenophon",
           "work": "Hellenica (simplified excerpts)",
