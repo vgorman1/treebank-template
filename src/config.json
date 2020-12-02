@@ -47,6 +47,22 @@
           ]
         },
         {
+          "path": "1_3_coord_trees",
+          "author": "Greek 151",
+          "work": "1.3 coord",
+          "editors": "Vanessa Gorman",
+          "sections": [
+            {
+              "locus": "1-46",
+              "path": "1_3_coord_trees",
+              "xml": "1_3_coord_trees.xml",
+              "link": "https://www.example.com",
+              "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+              "chunks": { "start": 1, "end": 46 }
+            }
+          ]
+        },
+        {
           "path": "Unit_1_3_coord",
           "author": "Xenophon",
           "work": "Hellenica (simplified excerpts)",
