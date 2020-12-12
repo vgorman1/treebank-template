@@ -83,7 +83,7 @@
       <word id="1" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" head="2"/>
       <word id="2" form="Ἀλκιβιάδης" lemma="Ἀλκιβιάδης" postag="n-s---mn-" relation="SBJ" head="8"/>
       <word id="3" form="τοῖς" lemma="ὁ" postag="l-p---md-" relation="ATR" head="4"/>
-      <word id="4" form="ὅρκοις" lemma="ὅρκος" postag="n-p---md-" relation="ADV" head="6"/>
+      <word id="4" form="ὅρκοις" lemma="ὅρκος" postag="n-p---md-" relation="OBJ" head="6"/>
       <word id="5" form="οὐκ" lemma="οὐ" postag="d--------" relation="AuxZ" head="6"/>
       <word id="6" form="ἔμενε" lemma="μένω" postag="v3siia---" relation="PRED_CO" head="8"/>
       <word id="7" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
