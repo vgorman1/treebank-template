@@ -207,6 +207,22 @@
           ]
         },
         {
+          "path": "2_3_infinitive_trees",
+          "author": "Greek 151",
+          "work": "2_3_infinitive_trees",
+          "editors": "Vanessa Gorman",
+          "sections": [
+            {
+              "locus": "1-105",
+              "path": "2_3_infinitive_trees",
+              "xml": "2_3_infinitive_trees.xml",
+              "link": "https://www.example.com",
+              "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+              "chunks": { "start": 1, "end": 105 }
+            }
+          ]
+        },
+        {
           "path": "Unit_1_3_coord",
           "author": "Xenophon",
           "work": "Hellenica (simplified excerpts)",
