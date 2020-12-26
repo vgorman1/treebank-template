@@ -237,6 +237,23 @@
               "chunks": { "start": 1, "end": 40 }
             }
           ]
+        }
+        ,
+         {
+          "path": "2_5_moods_trees",
+          "author": "Greek 151",
+          "work": "2_5_moods_trees",
+          "editors": "Vanessa Gorman",
+          "sections": [
+            {
+              "locus": "1-48",
+              "path": "2_5_moods_trees",
+              "xml": "2_5_moods_trees.xml",
+              "link": "https://www.example.com",
+              "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+              "chunks": { "start": 1, "end": 48 }
+            }
+          ]
         },
         {
           "path": "Unit_1_3_coord",
