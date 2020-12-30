@@ -256,6 +256,22 @@
           ]
         },
         {
+          "path": "John_book_1",
+          "author": "Greek 151",
+          "work": "John_book_1",
+          "editors": "Vanessa Gorman",
+          "sections": [
+            {
+              "locus": "1-64",
+              "path": "John_book_1",
+              "xml": "John_book_1.xml",
+              "link": "https://www.example.com",
+              "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+              "chunks": { "start": 1, "end": 64 }
+            }
+          ]
+        },
+        {
           "path": "Unit_1_3_coord",
           "author": "Xenophon",
           "work": "Hellenica (simplified excerpts)",
