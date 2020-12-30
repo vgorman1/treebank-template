@@ -271,6 +271,22 @@
             }
           ]
         },
+         {
+          "path": "Plato_Gorgias_447b-449a",
+          "author": "Greek 151",
+          "work": "Plato_Gorgias_447b-449a",
+          "editors": "Vanessa Gorman",
+          "sections": [
+            {
+              "locus": "1-64",
+              "path": "Plato_Gorgias_447b-449a",
+              "xml": "Plato_Gorgias_447b-449a.xml",
+              "link": "https://www.example.com",
+              "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+              "chunks": { "start": 1, "end": 64 }
+            }
+          ]
+        },
         {
           "path": "Unit_1_3_coord",
           "author": "Xenophon",
