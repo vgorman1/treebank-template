@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/treebank-template/precache-manifest.2645827b1317fa6147e55f9174c4a512.js"
+  "/treebank-template/precache-manifest.1bc8796c4e25f3ad9d0054a588a38851.js"
 );
 
 self.addEventListener('message', (event) => {
