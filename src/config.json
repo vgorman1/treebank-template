@@ -256,18 +256,18 @@
           ]
         },
         {
-          "path": "John_book_1",
+          "path": "Iliad_1_1-52",
           "author": "Greek 151",
-          "work": "John_book_1",
+          "work": "Iliad_1_1-52",
           "editors": "Vanessa Gorman",
           "sections": [
             {
-              "locus": "1-64",
-              "path": "John_book_1",
-              "xml": "John_book_1.xml",
+              "locus": "1-25",
+              "path": "Iliad_1_1-52",
+              "xml": "Iliad_1_1-52.xml",
               "link": "https://www.example.com",
               "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-              "chunks": { "start": 1, "end": 64 }
+              "chunks": { "start": 1, "end": 25 }
             }
           ]
         },
@@ -281,6 +281,22 @@
               "locus": "1-64",
               "path": "Plato_Gorgias_447b-449a",
               "xml": "Plato_Gorgias_447b-449a.xml",
+              "link": "https://www.example.com",
+              "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+              "chunks": { "start": 1, "end": 64 }
+            }
+          ]
+        },
+       {
+          "path": "John_book_1",
+          "author": "Greek 151",
+          "work": "John_book_1",
+          "editors": "Vanessa Gorman",
+          "sections": [
+            {
+              "locus": "1-64",
+              "path": "John_book_1",
+              "xml": "John_book_1.xml",
               "link": "https://www.example.com",
               "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
               "chunks": { "start": 1, "end": 64 }
