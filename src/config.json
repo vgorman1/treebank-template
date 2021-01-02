@@ -319,6 +319,22 @@
             }
           ]
         },
+         {
+          "path": "2.7_Theramenes 2_3_24-56",
+          "author": "Greek 151",
+          "work": "2.7_Theramenes 2_3_24-56",
+          "editors": "Vanessa Gorman",
+          "sections": [
+            {
+              "locus": "1-95",
+              "path": "2.7_Theramenes 2_3_24-56",
+              "xml": "2.7_Theramenes 2_3_24-56.xml",
+              "link": "https://www.example.com",
+              "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+              "chunks": { "start": 1, "end": 95 }
+            }
+          ]
+        },
         {
           "path": "Unit_1_3_coord",
           "author": "Xenophon",
