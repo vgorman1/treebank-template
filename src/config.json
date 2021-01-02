@@ -303,6 +303,22 @@
             }
           ]
         },
+         {
+          "path": "xen_hell_1_1_1-22",
+          "author": "Greek 151",
+          "work": "Xen_Hell_1_1_1-22",
+          "editors": "Vanessa Gorman",
+          "sections": [
+            {
+              "locus": "1-45",
+              "path": "xen_hell_1_1_1-22",
+              "xml": "xen_hell_1_1_1-22.xml",
+              "link": "https://www.example.com",
+              "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+              "chunks": { "start": 1, "end": 45 }
+            }
+          ]
+        },
         {
           "path": "Unit_1_3_coord",
           "author": "Xenophon",
