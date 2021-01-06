@@ -158,6 +158,22 @@
             }
           ]
         },
+        {
+          "path": "Unit_1_Xen_Hell_1_2_1-19_excerpts",
+          "author": "Greek 151",
+          "work": "Unit_1_Xen_Hell_1_2_1-19_excerpts",
+          "editors": "Vanessa Gorman",
+          "sections": [
+            {
+              "locus": "1-32",
+              "path": "Unit_1_Xen_Hell_1_2_1-19_excerpts",
+              "xml": "Unit_1_Xen_Hell_1_2_1-19_excerpts.xml",
+              "link": "https://www.example.com",
+              "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+              "chunks": { "start": 1, "end": 32 }
+            }
+          ]
+        },
        {
           "path": "2_1_1_tenses_trees",
           "author": "Greek 151",
