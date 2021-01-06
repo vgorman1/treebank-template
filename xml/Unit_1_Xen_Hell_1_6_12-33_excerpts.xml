@@ -221,7 +221,7 @@
       <word id="7" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="0"/>
       <word id="8" form="ἡ" lemma="ὁ" postag="l-s---fn-" relation="SBJ" head="12"/>
       <word id="9" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="12"/>
-      <word id="10" form="ἐπὶ" lemma="ἐπί" head=""postag="r--------" relation="AuxP" head="12"/>
+      <word id="10" form="ἐπὶ" lemma="ἐπί" postag="r--------" relation="AuxP" head="12"/>
       <word id="11" form="Ἑλλησπόντου" lemma="Ἑλλήσποντος" postag="n-s---mg-" relation="OBJ" head="10"/>
       <word id="12" form="ὥρμησεν" lemma="ὁρμάω" postag="v3saia---" relation="PRED_CO" head="7"/>
       <word id="13" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
