@@ -168,7 +168,7 @@
         <word id="10" form="ἔφυγον" lemma="φεύγω" postag="v3paia---" relation="PRED_CO" head="7"/>
         <word id="11" form="εἰς" lemma="εἰς" postag="r--------" relation="AuxP" head="10"/>
         <word id="12" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" head="13"/>
-        <word id="13" form="πόλιν" lemma="πόλις" postag="n-s---fa-" relation="OBJ" head="11"/>
+        <word id="13" form="πόλιν" lemma="πόλις" postag="n-s---fa-" relation="ADV" head="11"/>
         <word id="14" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
     </sentence>
     <sentence id="12" document_id="" subdoc="Xen., Hell 1.3.7" span="">
