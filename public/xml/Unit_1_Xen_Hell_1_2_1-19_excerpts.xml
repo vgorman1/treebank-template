@@ -51,7 +51,7 @@
       <word id="13" form="τοῦ" lemma="ὁ" postag="l-s---ng-" relation="ATR" head="14"/>
       <word id="14" form="θέρους" lemma="θέρος" postag="n-s---ng-" relation="ADV" head="12"/>
       <word id="15" form="εἰς" lemma="εἰς" postag="r--------" relation="AuxP" head="12"/>
-      <word id="16" form="Σάμον" lemma="Σάμος" postag="n-s---fa-" relation="OBJ" head="15"/>
+      <word id="16" form="Σάμον" lemma="Σάμος" postag="n-s---fa-" relation="ADV" head="15"/>
    </sentence>
    <sentence id="2" document_id="" subdoc="Xen., Hell 1.2.2" span="">
       <word id="1" form="ἐκεῖ" lemma="ἐκεῖ" postag="d--------" relation="ADV" head="3"/>
@@ -208,7 +208,7 @@
       <word id="8" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" head="9"/>
       <word id="9" form="εἰσβολὴν" lemma="εἰσβολή" postag="n-s---fa-" relation="ADV" head="7"/>
       <word id="10" form="εἰς" lemma="εἰς" postag="r--------" relation="AuxP" head="12"/>
-      <word id="11" form="Ἔφεσον" lemma="Ἔφεσος" postag="n-s---fa-" relation="OBJ" head="10"/>
+      <word id="11" form="Ἔφεσον" lemma="Ἔφεσος" postag="n-s---fa-" relation="ADV" head="10"/>
       <word id="12" form="ἀπέπλευσε" lemma="ἀποπλέω" postag="v3saia---" relation="PRED_CO" head="14"/>
       <word id="13" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
       <word id="14" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="0"/>
@@ -310,7 +310,7 @@
       <word id="3" form="Ἀθηναῖοι" lemma="Ἀθηναῖος" postag="n-p---mn-" relation="SBJ" head="8"/>
       <word id="4" form="ἀπέπλευσαν" lemma="ἀποπλέω" postag="v3paia---" relation="PRED_CO" head="8"/>
       <word id="5" form="εἰς" lemma="εἰς" postag="r--------" relation="AuxP" head="4"/>
-      <word id="6" form="Νότιον" lemma="Νότιον" postag="n-s---na-" relation="OBJ" head="5"/>
+      <word id="6" form="Νότιον" lemma="Νότιον" postag="n-s---na-" relation="ADV" head="5"/>
       <word id="7" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
       <word id="8" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="0"/>
       <word id="9" form="ἐκεῖθεν" lemma="ἐκεῖθεν" postag="d--------" relation="ADV" head="10"/>
